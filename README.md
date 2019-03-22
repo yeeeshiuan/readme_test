@@ -1,5 +1,5 @@
 # test
-[![Build Status](http://travis-ci.org/yeeeshiuan/twitchproject-demo.svg?branch=staging)](https://travis-ci.org/yeeeshiuan/twitchproject-demo)
+[![Build Status](https://github.com/yeeeshiuan/readme_test)](https://github.com/yeeeshiuan/readme_test)
 
 haha <br />
 say cheese
